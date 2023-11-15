@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421852152186",
+    "project_id": "labcsa-f8e5d",
+    "storage_bucket": "labcsa-f8e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421852152186:android:2877a2fe2ca0aa77d516c3",
+        "android_client_info": {
+          "package_name": "com.labfluttercsa.labfluttercsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahbJyuRB8NcfXF3R9ZQwe1yR3bIYZ8lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
